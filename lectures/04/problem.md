@@ -21,6 +21,7 @@
 2. Codespaces を起動し、ターミナルで次を実行します
 
 ```bash
+git switch -c lec04
 git switch main
 git pull --no-rebase
 git switch -c lec04
